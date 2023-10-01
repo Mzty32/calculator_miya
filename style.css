@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* header */
+.l_header {
+  margin-bottom: 200px;
+}
+
+/* body */
+.calc {
+  background-color: rgb(147, 181, 210);
+}
+
+.calc_monitor {
+  background-color: rgb(213, 240, 221);
+}
